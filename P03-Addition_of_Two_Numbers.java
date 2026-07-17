@@ -1,4 +1,4 @@
-public class P03_Addition_of_Two_Numbers {
+public class AdditionofTwoNumbers {
     public static void main(String[] args) {
         int a = 15;
         int b = 25;
